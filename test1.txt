@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 que pasa peña
+=======
+que pasa peña, me llamo alejandro
+>>>>>>> rama1
