@@ -1,0 +1,4 @@
+Step 1. 
+
+git status --> Me dice que todo ok porque he hecho add/commit/push después de crearme un .txt previamente.
+
